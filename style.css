@@ -1,0 +1,51 @@
+
+
+
+p {
+  font-family: "Poppins", sans-serif !important;
+
+
+}
+
+h1 {
+
+  font-family: "Rammetto One", serif !important;
+}
+
+h3 {
+
+  font-family: "Poppins", sans-serif !important;
+}
+
+h2 {
+
+  font-family: "Rammetto One", serif !important;
+}
+
+#imgBackgound {
+  position: absolute;
+  width: auto;
+  height: 90vh;
+  z-index: -1;
+}
+
+.bg-blue {
+  background-color: #EAF7FF;
+}
+
+.borderRadius{
+  border-radius: 20px;
+}
+
+
+.bg-white {
+  background-color: white;
+}
+
+.text-block {
+  margin-bottom: 14rem;
+}
+
+.pititext-block {
+  margin-bottom: 7rem;
+}
