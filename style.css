@@ -22,12 +22,7 @@ h2 {
   font-family: "Rammetto One", serif !important;
 }
 
-#imgBackgound {
-  position: absolute;
-  width: auto;
-  height: 90vh;
-  z-index: -1;
-}
+
 
 .bg-blue {
   background-color: #EAF7FF;
@@ -48,4 +43,17 @@ h2 {
 
 .pititext-block {
   margin-bottom: 7rem;
+}
+
+
+@media(max-width:1024px) {
+  
+
+  #imgBackgound{
+    margin-top: 10vh;
+
+  }
+
+ 
+
 }
